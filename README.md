@@ -15,4 +15,4 @@ A HTML5 Authenticator App (in development)
 You can contribute to this project making a issue/'pull request' what to fix.
 
 # Licensing
-This project is licensed under GNU License
+This project is licensed under GNU General Public License v3.0
